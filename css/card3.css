@@ -35,7 +35,7 @@ body{
 
 .imgColumn td,
 .cardLeft{
-    background-image: url("/img/aookewatch.jpg");
+    background-image: url("https://api.lorem.space/image/watch?hash=cao1kt8e");
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
@@ -80,7 +80,6 @@ body{
     background-color: #b1b1b1;
     padding: 25px;
     width: 90%;
-    /* font-size: 25px; */
     font-weight: bold;
     border-radius: 20px;
     transition: 0.4s;

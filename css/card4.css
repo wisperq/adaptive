@@ -24,12 +24,11 @@ body{
     box-shadow: 0px 0px 18px 14px rgba(62,66,66,0.4);
     border-radius: 30px;
     min-height: 400px;
-    /* display: flex; */
 }
 
 
 .imgLeft{
-    background-image: url("/img/aookewatch.jpg");
+    background-image: url("https://api.lorem.space/image/watch?hash=opjobm63");
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
@@ -40,7 +39,6 @@ body{
 }
 
 .infoRight{
-    /* height: 300px; */
     text-align: center;
     padding: 15px;
 }
@@ -66,7 +64,6 @@ body{
     background-color: #b1b1b1;
     padding: 25px;
     width: 90%;
-    /* font-size: 25px; */
     font-weight: bold;
     border-radius: 20px;
     transition: 0.4s;
